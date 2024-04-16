@@ -1,0 +1,27 @@
+{
+  "name": "blockbone-exchain-sdk",
+  "version": "1.0.0",
+  "description": "Integrate BlockBone with ExChain for seamless blockchain development and deployment.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osiersonev0/blockbone-exchain-sdk"
+  },
+  "author": "osiersonev0",
+  "license": "MIT",
+  "dependencies": {
+    "blockbone-exchain-sdk": "1.0.0",
+    "blockbone-exchain-chatbot": "1.0.0",
+    "passport": "1.0.0",
+    "react-dom": "1.0.0",
+    "mysql": "1.0.0",
+    "solc": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "ejs": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "redux": "1.0.0"
+  }
+}
